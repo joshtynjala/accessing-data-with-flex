@@ -196,9 +196,9 @@ When Flash Builder generates Forms, one Form can be placed on top of another
 Form. To rearrange the generated Forms, make sure that you select and move a
 Form, and not a component of the Form.
 
-![](../img/tip_help.png) When Flash Builder places one Form on top of another,
-it can be confusing on how to select the Form. In the code editor, select the
-tag for one of the Forms.
+> ![](../img/tip_help.png) When Flash Builder places one Form on top of another,
+> it can be confusing on how to select the Form. In the code editor, select the
+> tag for one of the Forms.
 
 ### Generating a master-detail form
 
