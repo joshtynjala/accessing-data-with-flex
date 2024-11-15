@@ -257,7 +257,7 @@ for the operations that use a custom data type. See
 4.  Specify the Add, Get All Properties, Update, and Delete operations that you
     have implemented. Click Finish.
 
-    > Note: You do not have to implement all of these functions. Implement only
-    > those functions required for your application.
+    > **Note:** You do not have to implement all of these functions. Implement
+    > only those functions required for your application.
 
 Data management is now enabled for that operation.
