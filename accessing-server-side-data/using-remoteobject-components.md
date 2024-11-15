@@ -820,10 +820,10 @@ On the server side, a Java class that implements the java.io.Externalizable
 interface performs functionality that is analogous to an ActionScript class that
 implements the flash.utils.IExternalizable interface.
 
-Note: If precise by-reference serialization is required, do not use types that
-implement the IExternalizable interface with the HTTPChannel. When you do this,
-references between recurring objects are lost and appear to be cloned at the
-endpoint.
+> **Note:** If precise by-reference serialization is required, do not use types
+> that implement the IExternalizable interface with the HTTPChannel. When you do
+> this, references between recurring objects are lost and appear to be cloned at
+> the endpoint.
 
 The following example shows the complete source code for the client
 (ActionScript) version of a Product class that maps to a Java-based Product

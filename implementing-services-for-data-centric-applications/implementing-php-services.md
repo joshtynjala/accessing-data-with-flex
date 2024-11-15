@@ -27,10 +27,10 @@ For information on installing Zend Framework, see
 For information on using Zend with Flash Builder for PHP, see the
 [Zend website](https://web.archive.org/web/20160904195453mp_/http://www.zend.com/en/products/studio/flash-builder-for-php/).
 
-Note: Although Flash Builder uses the Zend AMF framework, you are not required
-to use Zend components when creating PHP services. Although Zend components work
-well with Flash Builder, you can also use any PHP development environment for
-creating services.
+> **Note:** Although Flash Builder uses the Zend AMF framework, you are not
+> required to use Zend components when creating PHP services. Although Zend
+> components work well with Flash Builder, you can also use any PHP development
+> environment for creating services.
 
 ## Example PHP services
 

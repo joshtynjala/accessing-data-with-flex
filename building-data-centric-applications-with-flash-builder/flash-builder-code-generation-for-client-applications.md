@@ -375,9 +375,9 @@ for all managed data types.
 
     bookService.commit();
 
-Note: You cannot call `revertChanges()` directly from the service instance to
-revert changes to all managed data types. You can only call it for a specific
-managed data type.
+> **Note:** You cannot call `revertChanges()` directly from the service instance
+> to revert changes to all managed data types. You can only call it for a
+> specific managed data type.
 
 If you want to override the default behavior for data management, and disable
 the ability to revert changes, set the autoCommit to true. For example, if you

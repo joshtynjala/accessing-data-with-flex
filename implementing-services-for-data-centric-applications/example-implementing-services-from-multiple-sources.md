@@ -399,7 +399,7 @@ writing secure ColdFusion services, see the ColdFusion documentation
 
         <mx:DataGrid x="361" y="27" id="empDeptDG" dataProvider="{getEmployeesByDeptResult.lastResult}">
 
-    > Note: The creationComplete handler is not needed for the Employees
+    > **Note:** The creationComplete handler is not needed for the Employees
     > DataGrid. The Employees DataGrid becomes populated when a department is
     > selected in the Departments DataGrid.
 

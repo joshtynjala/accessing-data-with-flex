@@ -81,8 +81,8 @@ you can perform ECMAScript for XML (E4X) operations. Switching the
 `resultFormat` property to `e4x` requires the following minor changes to the
 MXML code.
 
-Note: If the result format is `e4x`, you do not include the root node of the XML
-structure in the dot notation when binding to the DataGrid.
+> **Note:** If the result format is `e4x`, you do not include the root node of
+> the XML structure in the dot notation when binding to the DataGrid.
 
 The XML returned in this example contains no namespace information. For
 information about working with XML that does contain namespaces, see
@@ -247,8 +247,8 @@ you can perform ECMAScript for XML (E4X) operations. Switching the
 `resultFormat` property to `e4x` requires the following minor changes to the
 MXML code.
 
-Note: If the result format is `e4x`, you do not include the root node of the XML
-structure in the dot notation when binding to the DataGrid.
+> **Note:** If the result format is `e4x`, you do not include the root node of
+> the XML structure in the dot notation when binding to the DataGrid.
 
 The XML returned in this example contains no namespace information. For
 information about working with XML that does contain namespaces, see
@@ -369,8 +369,8 @@ you can perform ECMAScript for XML (E4X) operations. Switching the
 `resultFormat` property to `e4x` requires the following minor changes to the
 MXML code.
 
-Note: If the result format is `e4x`, you do not include the root node of the XML
-structure in the dot notation when binding to the DataGrid.
+> **Note:** If the result format is `e4x`, you do not include the root node of
+> the XML structure in the dot notation when binding to the DataGrid.
 
 The XML returned in this example contains no namespace information. For
 information about working with XML that does contain namespaces, see

@@ -156,9 +156,9 @@ services, HTTP services, and server-based resources such as EJBs.
 Flash Player runs inside a security sandbox that prevents hijacking of the
 client by malicious application code.
 
-Note: SWF content running in Adobe AIR follows different security rules than
-content running in the browser. For details, see the Air Security topic in the
-AIR documentation.
+> **Note:** SWF content running in Adobe AIR follows different security rules
+> than content running in the browser. For details, see the Air Security topic
+> in the AIR documentation.
 
 For links to various security topics, see the
 [Security Topic Center](https://web.archive.org/web/20150924172518mp_/http://www.adobe.com/devnet/security/)

@@ -337,9 +337,10 @@ typing.
 For details, see
 [Using Adobe CFC Generator](https://web.archive.org/web/20160902121422mp_/http://help.adobe.com/en_US/ColdFusionBuilder/Using//WS0ef8c004658c1089-1b4fc34c122964e1318-8000.html).
 
-Note: ColdFusion object relational mapping (ORM uses an object model to define a
-mapping strategy for storing and retrieving data from a relational database. See
-[ColdFusion ORM](https://web.archive.org/web/20160902121422mp_/http://help.adobe.com/en_US/ColdFusion/9.0/Developing/WSD628ADC4-A5F7-4079-99E0-FD725BE9B4BD.html).
+> **Note:** ColdFusion object relational mapping (ORM uses an object model to
+> define a mapping strategy for storing and retrieving data from a relational
+> database. See
+> [ColdFusion ORM](https://web.archive.org/web/20160902121422mp_/http://help.adobe.com/en_US/ColdFusion/9.0/Developing/WSD628ADC4-A5F7-4079-99E0-FD725BE9B4BD.html).
 
 More Help topics
 

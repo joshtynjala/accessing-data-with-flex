@@ -126,9 +126,9 @@ match the order of the service's method parameters. You can name argument tags
 to match the actual names of the corresponding method parameters as closely as
 possible, but this is not necessary.
 
-Note: If argument tags inside an `<mx:arguments>` tag have the same name,
-service calls fail if the remote method is not expecting an array as the only
-input source. There is no warning about this when the application is compiled.
+> **Note:** If argument tags inside an `<mx:arguments>` tag have the same name,
+> service calls fail if the remote method is not expecting an array as the only
+> input source. There is no warning about this when the application is compiled.
 
 You can bind data to a RemoteObject component's method parameters. You reference
 the tag names of the parameters for data binding and validation.

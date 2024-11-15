@@ -14,8 +14,8 @@ that are complex types. If `makeObjectsBindable` is `true`, which it is by
 default, objects are wrapped in mx.utils.ObjectProxy instances and arrays are
 wrapped in mx.collections.ArrayCollection instances.
 
-Note: ColdFusion is not case sensitive, so it internally uppercases all of its
-data. Keep this in mind when consuming a ColdFusion web service.
+> **Note:** ColdFusion is not case sensitive, so it internally uppercases all of
+> its data. Keep this in mind when consuming a ColdFusion web service.
 
 ## Handling result and fault events
 
@@ -148,9 +148,9 @@ working with XML. Also, you can set the `resultFormat` property of HTTPService
 components to `flashvars` or `text` to create results as ActionScript objects
 that contain name-value pairs or as raw text, respectively.
 
-Note: To use E4X syntax on service results, you must set the `resultFormat`
-property of your HTTPService or WebService component to `e4x`. The default value
-is `object`.
+> **Note:** To use E4X syntax on service results, you must set the
+> `resultFormat` property of your HTTPService or WebService component to `e4x`.
+> The default value is `object`.
 
 When you set the `resultFormat` property of an HTTPService component or
 WebService operation to `e4x`, you may have to handle namespace information

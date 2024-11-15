@@ -229,8 +229,8 @@ The following example shows a web service call in an ActionScript script block.
 Calling the `useWebService()` method declares the service, sets the destination,
 fetches the WSDL document, and calls the `echoArgs()` method of the service.
 
-Note: When you declare a WebService component in ActionScript, call the
-`WebService.loadWSDL()` method.
+> **Note:** When you declare a WebService component in ActionScript, call the
+> `WebService.loadWSDL()` method.
 
     <?xml version="1.0"?>
     <!-- fds\rpc\WebServiceInAS.mxml -->

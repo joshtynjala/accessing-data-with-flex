@@ -33,9 +33,9 @@ created a Flex project for accessing ColdFusion services.
 2.  In the Configure ColdFusion Service dialog, browse to the location of the
     CFC implementing the service.
 
-    > Note: If you have not implemented a ColdFusion service, Flash Builder can
-    > generate a sample service from a single database table. Use the generated
-    > sample as an example of how to access data services. See
+    > **Note:** If you have not implemented a ColdFusion service, Flash Builder
+    > can generate a sample service from a single database table. Use the
+    > generated sample as an example of how to access data services. See
     > [Generating a sample ColdFusion service from a database table](#generating-a-sample-coldfusion-service-from-a-database-table).
 
 3.  (Optional) Modify the service details.
@@ -77,9 +77,9 @@ created a Flex project for accessing ColdFusion services.
 
 5.  Click Finish to generate ActionScript files that access the service.
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 Next step:
 [Configuring data types for data service operations](./configuring-data-types-for-data-service-operations.md).
@@ -115,11 +115,11 @@ accessing ColdFusion services and have ColdFusion data sources available.
     If the table does not define a primary key, select a Primary Key for the
     table.
 
-    > Note: If you do not have ColdFusion data source available, select Generate
-    > from Template. Flash Builder writes a sample ColdFusion component (CFC)
-    > with typical service operations. Uncomment specific functions in the CFC
-    > and modify the operations to create a sample service that you can use as a
-    > prototype.
+    > **Note:** If you do not have ColdFusion data source available, select
+    > Generate from Template. Flash Builder writes a sample ColdFusion component
+    > (CFC) with typical service operations. Uncomment specific functions in the
+    > CFC and modify the operations to create a sample service that you can use
+    > as a prototype.
 
 4.  Use the default location or specify a new location. Click OK.
 
@@ -160,7 +160,7 @@ a Flex project for accessing PHP services.
 2.  In the Configure PHP Service dialog, browse to the PHP file implementing the
     service:
 
-    > Note: If you have not implemented a PHP service, Flash Builder can
+    > **Note:** If you have not implemented a PHP service, Flash Builder can
     > generate a sample service from a single database table. Use the generated
     > sample as an example of how to access data services. See
     > [Generating a sample PHP service from a database table](#generating-a-sample-php-service-from-a-database-table).
@@ -211,9 +211,9 @@ a Flex project for accessing PHP services.
 
     Flash Builder generates ActionScript files that access the service.
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 Next step:
 [Configuring data types for data service operations](./configuring-data-types-for-data-service-operations.md).
@@ -246,8 +246,8 @@ accessing PHP services and have a MySQL data source available.
 3.  Select Generate from Database and specify the information to connect to a
     database. Click Connect to Database.
 
-    > Note: If you do not have PHP data source available, select Generate from
-    > Template. Flash Builder writes a sample project with typical service
+    > **Note:** If you do not have PHP data source available, select Generate
+    > from Template. Flash Builder writes a sample project with typical service
     > operations. Uncomment specific areas of the project and modify the
     > operations to create a sample service that you can use as a prototype.
 
@@ -369,7 +369,7 @@ access to the service. The Configure HTTP Service wizard supports the following:
   When specifying RESTful service parameters, the Data Type and Parameter Type
   are always configured as String and URL respectively.
 
-  > Note: You can mix RESTful service parameters with query parameters when
+  > **Note:** You can mix RESTful service parameters with query parameters when
   > specifying the URL to an operation.
 
 - Path to a local file for an operation URL
@@ -488,9 +488,9 @@ operations. When configuring the return type, you also configure the type for
 parameters to the operation. See
 [Configuring data types for data service operations](./configuring-data-types-for-data-service-operations.md).
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 Next step:
 [Configuring data types for data service operations](./configuring-data-types-for-data-service-operations.md).
@@ -562,9 +562,9 @@ user interface components.
 
     Flash Builder generates ActionScript files that access the service.
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 ## Accessing web services
 
@@ -587,8 +587,8 @@ different domain from the SWF file for the client application.
 
     Specify a destination. Click Next and proceed to step 5.
 
-    > Note: Accessing web services through a proxy is only enabled if your Flex
-    > project specifies J2EE as the application server type.
+    > **Note:** Accessing web services through a proxy is only enabled if your
+    > Flex project specifies J2EE as the application server type.
 
 3.  Enter a URI to the SOAP service.
 
@@ -654,9 +654,9 @@ different domain from the SWF file for the client application.
 
     Flash Builder generates ActionScript files that access the service.
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 'After connecting to the web service, configure the return types for service
 operations. See
@@ -722,9 +722,9 @@ services.
 
     Flash Builder generates ActionScript files that access the service.
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 ## Accessing LiveCycle Data Services
 
@@ -846,9 +846,9 @@ accessing LCDS services.
 
     Flash Builder generates ActionScript files that access the service.
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 ### Connecting to LiveCycle Data Service destinations (Web service destinations)
 
@@ -928,9 +928,9 @@ accessing DS services.
 
     Flash Builder generates ActionScript files that access the service.
 
-Note: After connecting to a service, you can modify the service properties.
-Select the service in the Data/Services view. From the context menu, select
-Properties.
+> **Note:** After connecting to a service, you can modify the service
+> properties. Select the service in the Data/Services view. From the context
+> menu, select Properties.
 
 ## Naming data services
 
@@ -950,8 +950,8 @@ The naming guidelines for services are:
 - (PHP only) If a service name contains underscores, Flash Builder cannot import
   the service.
 
-Note: It is good practice to use service names that are different from the names
-of your MXML files.
+> **Note:** It is good practice to use service names that are different from the
+> names of your MXML files.
 
 More Help topics
 

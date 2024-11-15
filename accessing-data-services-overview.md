@@ -158,10 +158,10 @@ that accesses data services.
     **Build user interface.** If you start by building the user interface, you
     then connect to the remote service.
 
-    > Note: Where you start is a matter of personal preference. For example, if
-    > you already have a user interface design planned, you can build the user
-    > interface first. Conversely, you can connect to the data first and let
-    > Flash Builder assist you in generating application components.
+    > **Note:** Where you start is a matter of personal preference. For example,
+    > if you already have a user interface design planned, you can build the
+    > user interface first. Conversely, you can connect to the data first and
+    > let Flash Builder assist you in generating application components.
 
 2.  Bind data operations to application components.
 
